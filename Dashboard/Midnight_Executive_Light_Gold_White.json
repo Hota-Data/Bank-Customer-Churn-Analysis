@@ -1,0 +1,25 @@
+{
+  "name": "Midnight Executive - Light Gold White",
+  "dataColors": [
+    "#17324D",
+    "#C49A3A",
+    "#527A9A",
+    "#8C6D3F",
+    "#6F8F84",
+    "#B9A77A",
+    "#456477",
+    "#A9B8C4",
+    "#D18B55",
+    "#64748B"
+  ],
+  "good": "#27845A",
+  "neutral": "#C49A3A",
+  "bad": "#C65353",
+  "maximum": "#17324D",
+  "center": "#C49A3A",
+  "minimum": "#E9EEF2",
+  "null": "#AAB4BE",
+  "background": "#FFFFFF",
+  "foreground": "#243746",
+  "tableAccent": "#C49A3A"
+}
